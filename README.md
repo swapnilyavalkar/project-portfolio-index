@@ -1,6 +1,6 @@
 # 📂 **Project Portfolio Index**
 
-Welcome to the **centralized repository** where you can explore my extensive work across **AWS**, **DevOps**, **Business Intelligence**, **Monitoring**, and other domains. All the projects are organized into categories, making it easier for you to find and use what you're looking for. 🚀
+Welcome to the **centralized repository** where you can explore my extensive work across **AWS**, **DevOps**, **Tableau**, **Business Intelligence**, **Monitoring**, **Automations**, and other domains. All the projects are organized into categories, making it easier for you to find and use what you're looking for. 🚀
 
 > 💡 **Note:** Each category links to individual repositories to allow for easy cloning, usage, and contributions.
 
@@ -8,12 +8,13 @@ Welcome to the **centralized repository** where you can explore my extensive wor
 
 ## 📑 **Table of Contents**
 
-- [AWS & Cloud Projects](#aws--cloud-projects)
-- [Applications & Utilities](#applications--utilities)
-- [Tableau](#tableau)
-- [SAP Business Objects](#sap-business-objects)
-- [Monitoring & Infrastructure Automation](#monitoring--infrastructure-automation)
-- [Others](#others)
+- [AWS & Cloud Projects](#🟧-aws--cloud-projects)
+- [Applications & Utilities](#🟦-applications-development--utilities)
+- [Tableau](#🟨-tableau)
+- [SAP Business Objects](#🟩-sap-business-objects)
+- [Monitoring & Infrastructure Automation](#🟦-monitoring--infrastructure-automation)
+- [Contributing](#📝-contributing)
+- [Let’s Connect](#📬-lets-connect)
 
 ---
 
@@ -52,6 +53,9 @@ Repositories featuring scripts and utilities for **automating repetitive tasks**
 | [Tableau Subscriptions Removal](https://github.com/swapnilyavalkar/tableau-subscriptions-removal) | A Python script to automate the removal of Tableau Server subscriptions for unlicensed users, including logging and sending email notifications. |
 | [Tableau Change Bulk User Roles](https://github.com/swapnilyavalkar/tableau-change-bulk-user-roles) | A Python script that automates updating bulk user roles on Tableau Server based on a CSV file. It logs the changes and exports a detailed report in Excel. |
 | [Tableau Update Datasource Script](https://github.com/swapnilyavalkar/tableau-update-datasource-script) | A Python script to automate the process of updating specific data connections in Tableau Server by fetching data from PostgreSQL and updating Tableau Server accordingly. |
+| [Tableau Prometheus Exporter](https://github.com/swapnilyavalkar/tableau-prometheus-exporter) | Custom exporters designed to enable Tableau monitoring through Prometheus. |
+| [Tableau Delete Subscriptions](https://github.com/swapnilyavalkar/tableau-delete-subscriptions) | Automates the cleanup of subscriptions on Tableau Server by removing subscriptions based on predefined criteria and deleting old log files. |
+| [Tableau Others](https://github.com/swapnilyavalkar/tableau-others) | Automates the cleanup of subscriptions on Tableau Server by removing subscriptions based on predefined criteria and deleting old log files. |
 
 ---
 
@@ -61,7 +65,7 @@ Repositories related to **SAP BusinessObjects** and **Tableau** administration, 
 
 | **Repository** | **Description** |
 |----------------|-----------------|
-
+| [UserDetailsBI41](https://github.com/swapnilyavalkar/userdetailsbi41) | A collection of automated tools for SAP BO Administrators to assist in daily, weekly, and quarterly maintenance tasks for SAP BI4.1 servers. |
 | [SAP BO Folder Report Structure](https://github.com/swapnilyavalkar/sap-bo-folder-report-structure) | A Java utility to extract report details from specific SAP BusinessObjects (BOBJ) folders and export them to Excel for administrative purposes. |
 | [SAP BO Universe Reports Extractor](https://github.com/swapnilyavalkar/sap-bo-universe-reports-extractor) | A Java utility to extract and list reports associated with a specific universe in SAP BusinessObjects, saving the details in an Excel file. |
 | [Password Reset](https://github.com/swapnilyavalkar/passwordreset) | An automated web application designed to reset user passwords on SAP BI4.1 servers, making the process easier and more secure. |
@@ -92,6 +96,6 @@ Feel free to contribute to any of the repositories listed above! Fork the repo, 
 💬 I’m always open to connecting with fellow professionals and collaborating on exciting **AWS**, **DevOps**, or **automation** projects!
 - Reach out to me via [LinkedIn](https://www.linkedin.com/in/swapnilyavalkar)
 - Check out my open-source projects on [GitHub](https://github.com/swapnilyavalkar)
-- Check out my Docker images on [Docker Hub](https://hub.docker.com/u/swapnilyavalkar) 
+- Check out my Docker images on [Docker Hub](https://hub.docker.com/u/swapnilyavalkar)
 
 Let’s discuss how I can help you automate cloud processes or streamline your DevOps pipelines.
