@@ -1,6 +1,6 @@
 # 📂 **Project Portfolio Index**
 
-Welcome to the **centralized repository** where you can explore my extensive work across **AWS**, **DevOps**, **Tableau**, **Business Intelligence**, **Monitoring**, **Automations**, and other domains. All the projects are organized into categories, making it easier for you to find and use what you're looking for. 🚀
+Welcome to the **Centralized Repository** where you can explore my extensive work across **AWS**, **DevOps**, **Tableau**, **Business Intelligence**, **Monitoring**, **Automations**, and other domains. All the projects are organized into categories, making it easier for you to find and use what you're looking for. 🚀
 
 > 💡 **Note:** Each category links to individual repositories to allow for easy cloning, usage, and contributions.
 
@@ -61,7 +61,7 @@ Repositories featuring scripts and utilities for **automating repetitive tasks**
 
 ### 🟩 **SAP Business Objects**
 
-Repositories related to **SAP BusinessObjects** and **Tableau** administration, helping BI professionals automate and manage report structures, data extractions, and server processes.
+Repositories related to **SAP BusinessObjects** administration, helping BI professionals automate and manage report structures, data extractions, and server processes.
 
 | **Repository** | **Description** |
 |----------------|-----------------|
